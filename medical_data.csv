@@ -1,0 +1,7 @@
+fever,body_pain,headache,nausea,rash,disease
+1,1,1,1,1,dengue
+1,1,0,0,0,fever
+0,1,1,0,0,headache
+0,0,0,0,0,healthy
+1,1,1,0,0,fever
+1,1,1,1,0,dengue
